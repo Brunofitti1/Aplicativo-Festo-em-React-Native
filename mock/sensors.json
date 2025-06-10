@@ -1,0 +1,52 @@
+{
+    "sensores": [
+        {
+            "id": "1",
+            "nome": "Reed Switch",
+            "status": "ok",
+            "valor": 34.5
+        },
+        {
+            "id": "2",
+            "nome": "Pressão Absoluta",
+            "status": "alerta",
+            "valor": 78.1
+        },
+        {
+            "id": "3",
+            "nome": "Pressão Diferencial",
+            "status": "aviso",
+            "valor": 56.7
+        },
+        {
+            "id": "4",
+            "nome": "Acelerômetro",
+            "status": "alerta",
+            "valor": 82.3
+        },
+        {
+            "id": "5",
+            "nome": "Temperatura",
+            "status": "ok",
+            "valor": 22.9
+        },
+        {
+            "id": "6",
+            "nome": "Strain Gauge",
+            "status": "aviso",
+            "valor": 64.2
+        },
+        {
+            "id": "7",
+            "nome": "Contador de Ciclos",
+            "status": "alerta",
+            "valor": 98.0
+        },
+        {
+            "id": "8",
+            "nome": "Qualidade do Ar",
+            "status": "ok",
+            "valor": 15.4
+        }
+    ]
+}
